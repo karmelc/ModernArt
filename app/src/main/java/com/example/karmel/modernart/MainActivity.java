@@ -1,5 +1,5 @@
 package com.example.karmel.modernart;
-//sdfffffdddddddd
+
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
